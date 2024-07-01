@@ -1,4 +1,4 @@
-# About Me
+## About Me
 
 #### I enjoy discovering and learning new stuff
 #### Not really an introvert but prefer being alone
